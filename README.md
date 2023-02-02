@@ -16,7 +16,7 @@ This project is a solution to the [Profile card component challenge on Frontend 
 ## **Links**
 
 - Live Preview: [click here](https://0xabdulkhalid.github.io/profile-card-component/)
-- ~~Frontendmentor Post: [click here]()~~ 
+- ~~Frontendmentor Post: [click here](#links)~~ 
 - **(** Modified solution is only posted on Frontendmentor, If you eager to explore that then navigate to following [repository](https://github.com/0xabdulkhalid/profile-card-component-remastered) **)**
 
 <br>
@@ -31,8 +31,9 @@ This project is a solution to the [Profile card component challenge on Frontend 
 
 ## **Tools Used**
 
-- ![Shell Script](https://img.shields.io/badge/Bash-%23221011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+- ![Shell Script](https://img.shields.io/badge/Bash-2A5028.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- ![Google](https://img.shields.io/badge/google-DA4437?style=for-the-badge&logo=google&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)  
 - ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)   
 
