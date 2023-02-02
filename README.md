@@ -2,6 +2,7 @@
 
 This project is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
 
+<br>
 
 ## **Preview**
 
@@ -14,9 +15,9 @@ This project is a solution to the [Profile card component challenge on Frontend 
 
 ## **Links**
 
-- Live preview link: [click here](https://0xabdulkhalid.github.io/profile-card-component/)
-- ~~Solution post: [click here]()~~ 
-- **(** Modified solution is only posted, If you eager to explore that then navigate to following [repository]() **)**
+- Live Preview: [click here](https://0xabdulkhalid.github.io/profile-card-component/)
+- ~~Frontendmentor Post: [click here]()~~ 
+- **(** Modified solution is only posted on Frontendmentor, If you eager to explore that then navigate to following [repository](https://github.com/0xabdulkhalid/profile-card-component-remastered) **)**
 
 <br>
 
