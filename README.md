@@ -37,6 +37,7 @@
 <br />
 
 
+<br>
 
 ## **Preview**
 
@@ -66,7 +67,6 @@
   |  |
   | Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-0xabdulkhalid-github-io-profile-card-component/m4477fbl1h?form_factor=mobile) to get live score |
   |||
-
 
 <br>
 
