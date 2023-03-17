@@ -1,13 +1,48 @@
-# **Profile card component - Solution**
+<div align="center">
 
-This project is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
+  <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="frontendmentor" width="80">
+
+  <h2 align="center">Profile Card Component Solution</h2>
+  <p align="center">
+    <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ" target="_blank"><strong>Frontend Mentor Challenge</strong></a>
+    <br />
+    <br />
+    <a href="https://0xabdulkhalid.github.io/profile-card-component/" target="_blank">View Demo</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/0xabdulkhalid/profile-card-component/issues" target="_blank">Report Bug</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/0xabdulkhalid/profile-card-component/issues" target="_blank">Request Feature</a>
+  </p>
+</div>
+
+<!-- Badges -->
+<div align="center">
+  <!-- Profiles -->
+  <a href="https://www.frontendmentor.io/profile/0xabdulkhalid" target="_blank">
+    <img src="https://img.shields.io/badge/Profile-0xAbdulKhalid-eee?style=for-the-badge&logo=frontendmentor" alt="Abdul's Profile">
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <!-- Status -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Completed">
+  </a> &nbsp;&nbsp;&nbsp;
+
+  <!-- Difficulty -->
+  <a href="https://www.frontendmentor.io/challenges?difficulties=1"  target="_blank">
+    <img src="https://img.shields.io/badge/Difficulty-Newbie-61BECD?style=for-the-badge&logo=frontendmentor" alt="Challenge Difficulty - Newbie">
+  </a>
+
+</div>
+<br />
+<br />
+
 
 <br>
 
 ## **Preview**
 
 <div align='center'>
-<img src='./design/solution-cover.png' alt='Profile preview card solution cover image'>
+<img src='./design/solution-cover.webp' alt='Profile preview card solution cover image'>
 </div>
 
 
@@ -15,9 +50,23 @@ This project is a solution to the [Profile card component challenge on Frontend 
 
 ## **Links**
 
-- Live Preview: [click here](https://0xabdulkhalid.github.io/profile-card-component/)
-- ~~Frontendmentor Post: [click here](#links)~~ 
-- **(** Modified solution is only posted on Frontendmentor, If you eager to explore that then navigate to following [repository](https://github.com/0xabdulkhalid/profile-card-component-remastered) **)**
+- |||
+  | :----- | :----- |
+  | Solution URL: | [🎯](#) |
+  | Live Site URL: | [https://0xabdulkhalid.github.io/profile-card-component/](https://0xabdulkhalid.github.io/profile-card-component/) |
+  | Remastered Version: | [https://github.com/0xabdulkhalid/profile-card-component-remastered](https://github.com/0xabdulkhalid/profile-card-component-remastered) |
+  |||
+
+<br>
+
+## Pagespeed Insights Score:
+
+- | Scored 100% for Both Mobile & Desktop |
+  | :-----: |
+  | <img src='./images/pagespeed-insights-score.webp' alt='100% scored on pagespeed insights'> |
+  |  |
+  | Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-0xabdulkhalid-github-io-profile-card-component/m4477fbl1h?form_factor=mobile) to get live score |
+  |||
 
 <br>
 
@@ -31,7 +80,6 @@ This project is a solution to the [Profile card component challenge on Frontend 
 
 ## **Tools Used**
 
-- ![Shell Script](https://img.shields.io/badge/Bash-2A5028.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - ![Google](https://img.shields.io/badge/google-DA4437?style=for-the-badge&logo=google&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)  
 - ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -41,10 +89,11 @@ This project is a solution to the [Profile card component challenge on Frontend 
 
 ## **Outcome**
 
-* Used HTML5 **semantic elements** for better accessability and readability
+* Used HTML5 **semantic elements** for better accessability
 * Used **Git** and **GitHub** for project management
-* Tried to maintain **clean code**, especially **css** with **BEM Methodology**
-* Used **media queries** for responsive design
+* Tried to maintain **clean code**, especially **CSS** with **BEM Methodology**
+* Used **media queries** for responsive design, built with **Mobile first workflow**
+* Scored **100%** on [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-0xabdulkhalid-github-io-profile-card-component/m4477fbl1h?form_factor=mobile)
 * **Cross tested** on Firefox and Chromium based browsers
 
 <br>
@@ -64,20 +113,20 @@ This project is a solution to the [Profile card component challenge on Frontend 
 
 <br>
 
-## **Contact**
+## **Let's Connect 👋**
 
 <div align=center>
 
-<a href="https://www.0xabdulkhalid.ml" target="_blank">
-	<img src="https://img.shields.io/badge/website-19A1AD?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website">
+  <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin%20Profile-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.frontendmentor.io/profile/0xabdulkhalid" target="_blank">
+    <img src="https://img.shields.io/badge/FEM%20Profile-f8f9f8?style=for-the-badge&logo=Frontend-Mentor&logoColor=black" alt="Frontend-Mentor">
   </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.frontendmentor.io/profile/0xabdulkhalid" target="_blank">
-	<img src="https://img.shields.io/badge/Frontend Mentor-f8f9f8?style=for-the-badge&logo=Frontend-Mentor&logoColor=black" alt="Frontend-Mentor">
-  </a>  &nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-	<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin>
+
+  <a href="https://www.github.com/0xabdulkhalid/" target="_blank">
+    <img src="https://img.shields.io/badge/Github%20Profile-131313?style=for-the-badge&logo=github&logoColor=white" alt="Personal Website">
   </a>
 
 </div>
-
-<br>
