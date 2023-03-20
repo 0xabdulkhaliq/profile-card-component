@@ -52,7 +52,7 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [🎯](#) |
+  | Solution URL: | [Profile Card Component 🎯 [ SEMANTIC MARKUP - VANILLA CSS3 - BEM ]](https://www.frontendmentor.io/solutions/profile-card-component-carbon-copy-vanilla-css3-bem-mT_Hr2hv1o) |
   | Live Site URL: | [https://0xabdulkhalid.github.io/profile-card-component/](https://0xabdulkhalid.github.io/profile-card-component/) |
   | Remastered Version: | [https://github.com/0xabdulkhalid/profile-card-component-remastered](https://github.com/0xabdulkhalid/profile-card-component-remastered) |
   |||
